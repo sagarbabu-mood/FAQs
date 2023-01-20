@@ -1,0 +1,33 @@
+.faq-item {
+  border: 2px solid #d7dae6;
+  border-radius: 10px;
+  padding: 20px;
+  width: 80%;
+  margin-bottom: 30px;
+}
+
+.question-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  border: 0;
+  background-color: transparent;
+}
+
+.question {
+  font-size: 20px;
+  color: #52606d;
+  padding-bottom: 0;
+  margin-bottom: 13px;
+}
+
+p {
+  color: #9aa5b1;
+}
+
+hr {
+  border: 1px solid #d7dae6;
+}

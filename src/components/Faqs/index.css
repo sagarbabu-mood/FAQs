@@ -1,0 +1,22 @@
+body {
+  background-color: #f1f5f8;
+  padding: 30px;
+}
+
+.bg-container {
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  display: flex;
+
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+
+h1 {
+  margin-bottom: 30px;
+  font-size: 50px;
+  color: #cb8805;
+}
